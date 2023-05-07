@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Samat",
+            "age": 25,
+            "email": "samat@gmail.com",
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "name": "Janel",
+            "age": 32,
+            "email": "janel@example.com",
+            "status": "inactive"
+        },
+        {
+            "id": 3,
+            "name": "Botik",
+            "age": 42,
+            "email": "botiko@mail.ru",
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "name": "Alen",
+            "age": 28,
+            "email": "alenjomartuly@gmail.com",
+            "status": "inactive"
+        }
+    ]
+}
